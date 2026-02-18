@@ -107,18 +107,8 @@ Secondary Metric:
 - Accuracy
 
 ---
-
-## Future Improvements
-
-- Hyperparameter tuning
-- Cross-validation
-- Containerization using Docker
-- Cloud deployment
-- Enhanced user interface
-
----
-
 ## Author
 OM MUJUMDAR
+
 Developed as a capstone machine learning project demonstrating the complete workflow from data analysis to deployment.
 
